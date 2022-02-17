@@ -1,5 +1,3 @@
----
-title: "Welcome to my blog"
----
+Mike McDonald blog
 
 I'm glad you are here. I plan to talk about ...
